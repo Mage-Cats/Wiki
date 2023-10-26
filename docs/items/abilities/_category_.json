@@ -2,9 +2,9 @@
     "label": "Items",
     "position": 2,
     "link": {
-      "type": "generated-index",
+      "type": "generateds-index",
       "description": "The Items of Valor."
-       "id": "intro"
+      ,"id": "intro"
     }
   }
   
